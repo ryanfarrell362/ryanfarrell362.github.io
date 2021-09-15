@@ -1,4 +1,5 @@
 ## University of Guelph - GBADs
+# Summer 2021 Work Term Report
 
 You can use the [editor on GitHub](https://github.com/ryanfarrell362/ryanfarrell362.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
