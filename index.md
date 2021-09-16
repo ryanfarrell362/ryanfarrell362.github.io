@@ -18,15 +18,15 @@
 
 #### Inquiry and Analysis
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another goal I had for this work term was to learn how to analyze a problem so that I could determine what were the proper questions to ask to experienced members of them team to convey my issue in the best way possible and get a solution. Again, there weren't many opportunities to practice thus during my co-op ultimately due to the fact that I was placed on a solo project fairly early on, with most of the questions that I could have potentially asked simply being matters that I could google on StackOverflow to figure out. Like my first learning goal, while I made some progress towards it on this co-op, my next co-op will have many more opportunities to learn this skill since I'll be working with an established codebase rather than writing something from scratch.
 
 #### Written Communication
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, my last learning goal for the work term was to practice my skill at commenting and documenting code to make it more readable for anybody in the future who has to work on my code. On this front I was lucky that I had a solo project to work on this co-op as it allowed me to truly work on this goal unlike the other learning goals I have listed. This goal involved me writing comments for my code explaining what each function or line did, as well as creating a Readme file for the github repo where I hosted my project, along with documentation of the API so that researchers could easily use what I wrote for their research. Ultimately I made more progress towards this than my other goals for the semester, however like always I believe there is always room for improvement, such as studying common documentation conventions to make my code and API even clearer to understand.
 
 ## Conclusion
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Overall, I had a very enjoyable co-op, and learned a lot of useful information about topics such as working in a business environment rather than just doing school assignments, as well as how to interact with REST APIs, which before this co-op I had never used before. Alongside this, I also improved my skill in Python as it was the primary language I used for the co-op, as my API was written in it. As a first co-op this was a great opportunity to learn about the ins and outs of programming in a professional environment, which will undoubtably be essential for my upcoming co-op working at NCR.
 
 ## Acknowledgments
 
