@@ -8,7 +8,7 @@
 
 ## Job Description
 
-
+My official task as a Data Programmer and Analyst on the GBADs informatics team was to develop the DDD-API-SDK. Known as the Deep Data Dive API Software Development Kit. In essence, this was a library written in Python with the task of making an easy to use library which could be used to interact with the various APIs of the data sources being used for the project and combining them into one system of api calls rather than having to learn the intricacies of many different systems in order to make calls to various data sources. While this was my main task over the two months of my co-op, I also spent time exploring the many data sources and writing up documents with information about the APIs of the data sources if they existed and how to access the data otherwise if APIs did not exist. I did this task first which helped get accustomed to the project and learn what it was all about. 
 
 ## Learning Goals
 
